@@ -1,11 +1,13 @@
-﻿using System;
-using NUnit.Framework;
-using MargBooks1.Base;
+﻿using MargBooks1.Base;
 using MargBooks1.Configuration;
+using MargBooks1.Helpers;
 using MargBooks1.Pages;
-using System.Security.Cryptography.X509Certificates;
+using MargBooks1.Reports;
+using MargBooks1.Utils;
+using NUnit.Framework;
 using OpenQA.Selenium.DevTools.V143.DOM;
-using MargBooks1.Utils.Reports;
+using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace MargBooks1.Tests
 {
@@ -21,6 +23,10 @@ namespace MargBooks1.Tests
         {
             try
             {
+                VideoRecorder.StartRecording
+                    
+               (TestContext.CurrentContext.Test.Name);
+
                 ReportManager.InitReport();
 
                 login = new LoginPage(driver);
@@ -34,13 +40,13 @@ namespace MargBooks1.Tests
                 ReportManager.Log(
                     "Login",
                     "PASS",
-                    "Login successful");
+                    "Login successful", "Image");
             }
             catch (Exception ex)
             {
                 ReportManager.Log(
                     "Login",
-                    "FAIL",
+                    "FAIL", "Image",
                     ex.ToString());
 
                 Console.WriteLine(ex.Message);
@@ -63,7 +69,9 @@ namespace MargBooks1.Tests
                 ReportManager.Log(
                     "Open Master",
                     "PASS",
-                    "Master menu opened");
+                    "Master menu opened", "Image");
+                string screenshotPath1 = ScreenshotHelper.Capture(driver,"OpenMaster");
+                
 
                 ledger.OpenAccountMaster();
                 Thread.Sleep(5000);
@@ -71,7 +79,9 @@ namespace MargBooks1.Tests
                 ReportManager.Log(
                     "Open AccountMaster",
                     "PASS",
-                    "Account Master page opened");
+                    "Account Master page opened", "Image");
+
+                string screenshotPath2 = ScreenshotHelper.Capture(driver, "OpenAccountMaster");
 
                 //Ledger Creation
                 ledger.OpenLedger();
@@ -79,7 +89,9 @@ namespace MargBooks1.Tests
                 ReportManager.Log(
                     "Clickoncreate",
                     "PASS",
-                    "CreateLedger");
+                    "CreateLedger", "Image");
+
+                string screenshotPath3 = ScreenshotHelper.Capture(driver, "OpenLedger");
 
                 //PartyName
                 ledger.NewPartyName();
@@ -88,22 +100,27 @@ namespace MargBooks1.Tests
                 ReportManager.Log(
                     "Enter Party Name",
                     "PASS",
-                    "Party name entered");
+                    "Party name entered", "Image");
+
+                string screenshotPath4 = ScreenshotHelper.Capture(driver, "NewPartyName");
                 //GroupName
                 ledger.GroupNameSelect();
                 Thread.Sleep(5000);
                 ReportManager.Log(
                     "Open GroupName",
                     "PASS",
-                    "selected Succesfully");
+                    "selected Succesfully", "Image");
 
+                string screenshotPath5 = ScreenshotHelper.Capture(driver, "GroupNameSelect");
                 //Station name
                 ledger.StationName();
                 Thread.Sleep(5000);
                 ReportManager.Log(
                     "Enter Station Name",
                     "PASS",
-                    "Station name entered");
+                    "Station name entered", "Image");
+
+                string screenshotPath6 = ScreenshotHelper.Capture(driver, "StationName");
                 //Ledger mail
                 ledger.LedgerMail();
                 Thread.Sleep(5000);
@@ -111,26 +128,30 @@ namespace MargBooks1.Tests
                 ReportManager.Log(
                     "Enter Ledger Mail",
                     "PASS",
-                    "Ledger mail entered");
+                    "Ledger mail entered", "Image");
+
+                string screenshotPath7= ScreenshotHelper.Capture(driver, "Ledegrmail");
                 //Ledger address
                 ledger.Ledgeraddress();
                 Thread.Sleep(5000);
                 ReportManager.Log(
                     "Enter Ledger Address1",
                     "PASS",
-                    "Ledger address entered");
+                    "Ledger address entered", "Image");
+                string screenshotPath8 = ScreenshotHelper.Capture(driver, "Ledger");
+
                 ledger.Ledgeraddress2();
                 Thread.Sleep(5000);
                 ReportManager.Log(
                     "Enter Ledger Address2",
                     "PASS",
-                    "Ledger address entered");
+                    "Ledger address entered", "Image");
                 ledger.Ledgeraddress3();
                 Thread.Sleep(5000);
                 ReportManager.Log(
                     "Enter Ledger Address3",
                     "PASS",
-                    "Ledger address entered");
+                    "Ledger address entered", "Image");
 
 
                 ledger.CityEnter();
@@ -138,41 +159,41 @@ namespace MargBooks1.Tests
                 ReportManager.Log(
                     "Enter City",
                     "PASS",
-                    "City entered");
+                    "City entered", "Image");
                 ledger.PincodeEnter();
                 Thread.Sleep(5000);
                 ReportManager.Log
                     (" Pincode enter", 
                     "Pass", 
-                    "Pinocde successfully");
+                    "Pinocde successfully", "Image");
 
                 ledger.EnterMob();
                 Thread.Sleep(2000);
                 ReportManager.Log(
                     "Enter Mobile Number",
                     "PASS",
-                    "Mobile number entered");
+                    "Mobile number entered", "Image");
 
                 ledger.EnterGSTDetails();
                 Thread.Sleep(5000);
                 ReportManager.Log(
                     "Select Gst Type",
                     "Pass",
-                    "Select Successfully");
+                    "Select Successfully", "Image");
 
                 ledger.EnterGSTNumber();
                 Thread.Sleep(5000);
                 ReportManager.Log(
                     "EnterGSTNumber", 
                     "Pass", 
-                    "Entered successfully");
+                    "Entered successfully", "Image");
 
                 ledger.SaveGSTDetails();
                 Thread.Sleep(5000);
                 ReportManager.Log(
                     "save Ledger", 
                     "pass",
-                    "Save Ledger successfully");
+                    "Save Ledger successfully", "Image");
 
 
                 ledger.SaveLedger();
@@ -180,7 +201,7 @@ namespace MargBooks1.Tests
                 ReportManager.Log(
                     "Save Ledger",
                     "PASS",
-                    "Ledger saved successfully");
+                    "Ledger saved successfully","Image");
 
                 Assert.Pass();
             }
@@ -188,7 +209,7 @@ namespace MargBooks1.Tests
             {
                 ReportManager.Log(
                     "LedgerMasterCreation",
-                    "FAIL",
+                    "FAIL","Image",
                     ex.ToString());
 
                 Console.WriteLine(ex.Message);
@@ -226,14 +247,200 @@ namespace MargBooks1.Tests
                 ReportManager.Log(
                     "Ledger Name Length Validation",
                     "PASS",
-                    "Ledger Name length validation successful");
+                    "Ledger Name length validation successful","Image");
             }
             catch (Exception ex)
             {
                 ReportManager.Log(
                     "Ledger Name Length Validation",
-                    "FAIL",
+                    "FAIL","Image",
                     ex.ToString());
+
+                Assert.Fail(ex.Message);
+            }
+        }
+        [Test]
+        public void Verify_Random_Ledger_Creation_Flow()
+        {
+            try
+            {
+                ledger.OpenMaster();
+                Thread.Sleep(5000);
+
+                string ss1 = ScreenshotHelper.Capture(driver, "OpenMaster");
+                ReportManager.Log(
+                    "Open Master",
+                    "PASS",
+                    "Master menu opened",
+                    ss1);
+
+                ledger.OpenAccountMaster();
+                Thread.Sleep(5000);
+
+                string ss2 = ScreenshotHelper.Capture(driver, "OpenAccountMaster");
+                ReportManager.Log(
+                    "Open Account Master",
+                    "PASS",
+                    "Account Master page opened",
+                    ss2);
+
+                ledger.OpenLedger();
+                Thread.Sleep(5000);
+
+                string ss3 = ScreenshotHelper.Capture(driver, "OpenLedger");
+                ReportManager.Log(
+                    "Open Ledger",
+                    "PASS",
+                    "Ledger page opened",
+                    ss3);
+
+                ledger.EnterRandomPartyName();
+                Thread.Sleep(5000);
+
+                string ss4 = ScreenshotHelper.Capture(driver, "RandomPartyName");
+                ReportManager.Log(
+                    "Enter Random Party Name",
+                    "PASS",
+                    "Random party name entered",
+                    ss4);
+
+                ledger.GroupNameSelect();
+                Thread.Sleep(5000);
+
+                string ss5 = ScreenshotHelper.Capture(driver, "GroupName");
+                ReportManager.Log(
+                    "Group Name",
+                    "PASS",
+                    "Group selected successfully",
+                    ss5);
+
+                ledger.StationName();
+                Thread.Sleep(5000);
+
+                string ss6 = ScreenshotHelper.Capture(driver, "StationName");
+                ReportManager.Log(
+                    "Station Name",
+                    "PASS",
+                    "Station selected successfully",
+                    ss6);
+
+                ledger.LedgerMail();
+                Thread.Sleep(5000);
+
+                string ss7 = ScreenshotHelper.Capture(driver, "LedgerMail");
+                ReportManager.Log(
+                    "Ledger Mail",
+                    "PASS",
+                    "Ledger mail processed",
+                    ss7);
+
+                ledger.Ledgeraddress();
+                Thread.Sleep(5000);
+
+                string ss8 = ScreenshotHelper.Capture(driver, "Address1");
+                ReportManager.Log(
+                    "Address1",
+                    "PASS",
+                    "Address1 entered",
+                    ss8);
+
+                ledger.Ledgeraddress2();
+                Thread.Sleep(5000);
+
+                string ss9 = ScreenshotHelper.Capture(driver, "Address2");
+                ReportManager.Log(
+                    "Address2",
+                    "PASS",
+                    "Address2 entered",
+                    ss9);
+
+                ledger.Ledgeraddress3();
+                Thread.Sleep(5000);
+
+                string ss10 = ScreenshotHelper.Capture(driver, "Address3");
+                ReportManager.Log(
+                    "Address3",
+                    "PASS",
+                    "Address3 entered",
+                    ss10);
+
+                ledger.CityEnter();
+                Thread.Sleep(5000);
+
+                string ss11 = ScreenshotHelper.Capture(driver, "City");
+                ReportManager.Log(
+                    "City",
+                    "PASS",
+                    "City entered",
+                    ss11);
+
+                ledger.PincodeEnter();
+                Thread.Sleep(5000);
+
+                string ss12 = ScreenshotHelper.Capture(driver, "Pincode");
+                ReportManager.Log(
+                    "Pincode",
+                    "PASS",
+                    "Pincode entered",
+                    ss12);
+
+                ledger.EnterMob();
+                Thread.Sleep(5000);
+
+                string ss13 = ScreenshotHelper.Capture(driver, "Mobile");
+                ReportManager.Log(
+                    "Mobile",
+                    "PASS",
+                    "Mobile entered",
+                    ss13);
+
+                ledger.EnterGSTDetails();
+                Thread.Sleep(5000);
+
+                string ss14 = ScreenshotHelper.Capture(driver, "GSTDetails");
+                ReportManager.Log(
+                    "GST Details",
+                    "PASS",
+                    "GST type selected",
+                    ss14);
+
+                ledger.EnterGSTNumber();
+                Thread.Sleep(5000);
+
+                string ss15 = ScreenshotHelper.Capture(driver, "GSTNumber");
+                ReportManager.Log(
+                    "GST Number",
+                    "PASS",
+                    "GST number entered",
+                    ss15);
+
+                ledger.SaveGSTDetails();
+                Thread.Sleep(5000);
+
+                string ss16 = ScreenshotHelper.Capture(driver, "SaveGST");
+                ReportManager.Log(
+                    "Save GST",
+                    "PASS",
+                    "GST details saved",
+                    ss16);
+
+                ledger.SaveLedger();
+                Thread.Sleep(5000);
+
+                string ss17 = ScreenshotHelper.Capture(driver, "SaveLedger");
+                ReportManager.Log(
+                    "Save Ledger",
+                    "PASS",
+                    "Random ledger created successfully",
+                    ss17);
+
+                Assert.Pass();
+            }
+            catch (Exception ex)
+            {
+                string ss18 = ScreenshotHelper.Capture(driver, "RandomLedgerFailed");
+
+               
 
                 Assert.Fail(ex.Message);
             }
@@ -242,6 +449,10 @@ namespace MargBooks1.Tests
         [TearDown]
         public void Cleanup()
         {
+
+            VideoRecorder.StopRecording();
+
+            ReportManager.FlushReport();
             ReportManager.FlushReport();
         }
     }

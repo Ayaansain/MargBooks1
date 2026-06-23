@@ -79,9 +79,26 @@ public class ItemCompanyDetails
 
     public string Website { get; set; }
 
-
-
-
-
-
 }
+
+public class SaleBillDetails
+{
+    public int Date { get; set; }
+    public int BillNo { get; set; }
+    public string LedgerName { get; set; }
+    public string ItemName { get; set; }
+    public string QTY { get; set; }
+    public string SaleRate { get; set; }
+    public string Discount { get; set; }
+    public string Mobile { get; set; }
+    public string CustomerName { get; set; }
+    public string Address { get; set; }
+    public string OtherHead { get; set; }
+    public string Unit1 { get; set; }
+    public string Unit2 { get; set; }
+    public string BillDiscount { get; set; }
+    public string Packing { get; set; }
+    public string HSN { get; set; }
+    public string TaxCategory { get; set; }
+    public string Company { get; set; }
+    public string MRP { get; set;} }

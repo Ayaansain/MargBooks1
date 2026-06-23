@@ -1,116 +1,133 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\",
+  "WorkspaceRootPath": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\testes\\itemcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\testes\\itemcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\testes\\billingtestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\testes\\billingtestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\pages\\itemcompanymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\itemcompanymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\testes\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\testes\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\testes\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\pages\\ledgermasterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\ledgermasterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\base\\excelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\base\\excelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\utils\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\utils\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\pages\\itemmastercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\itemmastercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\base\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\base\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\utils\\reports\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\utils\\reports\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\pages\\salereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\salereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\pages\\salebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\pages\\salebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\salebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\pages\\ledgermasterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\ledgermasterpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\configuration\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\configuration\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\pages\\itemmastercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\itemmastercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\pages\\itemcompanymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\itemcompanymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\utils\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\utils\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\base\\excelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\base\\excelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\base\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\base\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\configuration\\ledgerlocater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\configuration\\ledgerlocater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\configuration\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\configuration\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\pages\\purchasepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\purchasepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\testes\\itemcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\testes\\itemcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shailender.kumar\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\build\\net8.0\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\utils\\screenshotshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\utils\\screenshotshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\utils\\screenshotshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\utils\\retry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\testes\\testesflow.text||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\testes\\testesflow.text||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\utils\\screenrecording.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\utils\\screenrecording.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\debugformula\\debugformat.text||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\debugformula\\debugformat.text||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\utils\\retry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\utils\\retry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\margbooks1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\reports\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\reports\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\pages\\purchasepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\purchasepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\margbooks1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\margbooks1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\pages\\salereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\pages\\salereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\configuration\\ledgerlocater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\configuration\\ledgerlocater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\margbooks1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\margbooks1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\ledgergstinvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\ledgergstinvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\negativetestcases\\ledgergstinvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\ledgermasternegativepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\ledgermasternegativepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\negativetestcases\\ledgermasternegativepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\verifyledgernameblanknegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\verifyledgernameblanknegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\negativetestcases\\verifyledgernameblanknegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\logintestsnegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\logintestsnegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\negativetestcases\\logintestsnegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\ledgerverifymobilenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\ledgerverifymobilenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\negativetestcases\\ledgerverifymobilenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\ledgernamespecialchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\ledgernamespecialchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\negativetestcases\\ledgernamespecialchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\ledgerinvalidpincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\negativetestcases\\ledgerinvalidpincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\negativetestcases\\ledgerinvalidpincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -120,19 +137,19 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shailender.kumar\\source\\repos\\MargBooks2\\MargBooks2\\Base\\BasePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\oldtest\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\oldtest\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\oldtest\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\oldtest\\purchasetransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\oldtest\\purchasetransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\oldtest\\purchasetransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\oldtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\oldtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\oldtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\margbooks1\\margbooks1\\oldtest\\ledgermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|c:\\users\\shailender.kumar\\source\\repos\\ayaansain\\margbooks1\\source\\repos\\margbooks1\\margbooks1\\oldtest\\ledgermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87107F3B-BEC2-17DE-EFD6-75AC396F284E}|MargBooks1\\MargBooks1.csproj|solutionrelative:margbooks1\\oldtest\\ledgermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -154,244 +171,239 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ItemCompanyMaster.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\ItemCompanyMaster.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Pages\\ItemCompanyMaster.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\ItemCompanyMaster.cs",
-              "RelativeToolTip": "MargBooks1\\Pages\\ItemCompanyMaster.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA9wBIAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T12:46:18.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExcelHelper.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\ExcelHelper.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Utils\\ExcelHelper.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\ExcelHelper.cs",
-              "RelativeToolTip": "MargBooks1\\Utils\\ExcelHelper.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAwwE0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T10:04:46.046Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ExcelModel.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Base\\ExcelModel.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Base\\ExcelModel.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Base\\ExcelModel.cs",
-              "RelativeToolTip": "MargBooks1\\Base\\ExcelModel.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAADwv0gAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T12:17:24.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ItemCreation.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\ItemCreation.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Testes\\ItemCreation.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\ItemCreation.cs",
-              "RelativeToolTip": "MargBooks1\\Testes\\ItemCreation.cs",
-              "ViewState": "AgIAANwAAAAAAAAAAAAAAN0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T06:37:57.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginTests.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\LoginTests.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Testes\\LoginTests.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\LoginTests.cs",
-              "RelativeToolTip": "MargBooks1\\Testes\\LoginTests.cs",
-              "ViewState": "AgIAAMEAAAAAAAAAAAAcwOEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T06:34:05.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LedgerMasterPage.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\LedgerMasterPage.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Pages\\LedgerMasterPage.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\LedgerMasterPage.cs",
-              "RelativeToolTip": "MargBooks1\\Pages\\LedgerMasterPage.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowEQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T08:35:14.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ItemMasterCreation.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\ItemMasterCreation.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\ItemMasterCreation.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Pages\\ItemMasterCreation.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\ItemMasterCreation.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\ItemMasterCreation.cs",
               "RelativeToolTip": "MargBooks1\\Pages\\ItemMasterCreation.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAYwBMAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAxwDcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-05T05:46:02.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BasePage.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Base\\BasePage.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Base\\BasePage.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Base\\BasePage.cs",
-              "RelativeToolTip": "MargBooks1\\Base\\BasePage.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBIAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LedgerMasterPage.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\LedgerMasterPage.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Pages\\LedgerMasterPage.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\LedgerMasterPage.cs",
+              "RelativeToolTip": "MargBooks1\\Pages\\LedgerMasterPage.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAzwHIAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T05:39:25.35Z"
+              "WhenOpened": "2026-06-09T08:35:14.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleBill.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\SaleBill.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Pages\\SaleBill.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\SaleBill.cs",
+              "RelativeToolTip": "MargBooks1\\Pages\\SaleBill.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAkwOAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T04:36:27.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillingTestes.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\BillingTestes.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Testes\\BillingTestes.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\BillingTestes.cs*",
+              "RelativeToolTip": "MargBooks1\\Testes\\BillingTestes.cs*",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAAMMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T07:04:25.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\LoginTests.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Testes\\LoginTests.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\LoginTests.cs",
+              "RelativeToolTip": "MargBooks1\\Testes\\LoginTests.cs",
+              "ViewState": "AgIAALIBAAAAAAAAAAAqwL8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:34:05.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemCompanyMaster.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\ItemCompanyMaster.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Pages\\ItemCompanyMaster.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\ItemCompanyMaster.cs",
+              "RelativeToolTip": "MargBooks1\\Pages\\ItemCompanyMaster.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowBIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:46:18.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcelHelper.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\ExcelHelper.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Utils\\ExcelHelper.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\ExcelHelper.cs",
+              "RelativeToolTip": "MargBooks1\\Utils\\ExcelHelper.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T10:04:46.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExcelModel.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Base\\ExcelModel.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Base\\ExcelModel.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Base\\ExcelModel.cs",
+              "RelativeToolTip": "MargBooks1\\Base\\ExcelModel.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowFcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T12:17:24.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ExtentReportManager.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\Reports\\ExtentReportManager.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Utils\\Reports\\ExtentReportManager.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\Reports\\ExtentReportManager.cs",
-              "RelativeToolTip": "MargBooks1\\Utils\\Reports\\ExtentReportManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T04:38:29.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SaleReturn.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\SaleReturn.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Pages\\SaleReturn.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\SaleReturn.cs",
-              "RelativeToolTip": "MargBooks1\\Pages\\SaleReturn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T04:36:40.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "BaseTest.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Base\\BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Base\\BaseTest.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Base\\BaseTest.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Base\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Base\\BaseTest.cs",
               "RelativeToolTip": "MargBooks1\\Base\\BaseTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T04:33:01.411Z"
+              "WhenOpened": "2026-05-29T04:33:01.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "SaleBill.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\SaleBill.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Pages\\SaleBill.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\SaleBill.cs",
-              "RelativeToolTip": "MargBooks1\\Pages\\SaleBill.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEAAAAAoAAAAAAAAAA==",
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Configuration\\Config.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Configuration\\Config.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Configuration\\Config.cs",
+              "RelativeToolTip": "MargBooks1\\Configuration\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T04:36:27.663Z"
+              "WhenOpened": "2026-05-29T04:33:56.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Base\\BasePage.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Base\\BasePage.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Base\\BasePage.cs",
+              "RelativeToolTip": "MargBooks1\\Base\\BasePage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T05:39:25.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DriverFactory.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Drivers\\DriverFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Drivers\\DriverFactory.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Drivers\\DriverFactory.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Drivers\\DriverFactory.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Drivers\\DriverFactory.cs",
               "RelativeToolTip": "MargBooks1\\Drivers\\DriverFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T04:35:06.946Z"
+              "WhenOpened": "2026-05-29T04:35:06.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "LoginPage.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\LoginPage.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Pages\\LoginPage.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\LoginPage.cs",
-              "RelativeToolTip": "MargBooks1\\Pages\\LoginPage.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBYAAAAfAAAAAAAAAA==",
+              "Title": "ItemCreation.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\ItemCreation.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Testes\\ItemCreation.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\ItemCreation.cs",
+              "RelativeToolTip": "MargBooks1\\Testes\\ItemCreation.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T04:36:08.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LedgerLocater.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Configuration\\LedgerLocater.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Configuration\\LedgerLocater.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Configuration\\LedgerLocater.cs",
-              "RelativeToolTip": "MargBooks1\\Configuration\\LedgerLocater.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T07:25:42.844Z"
+              "WhenOpened": "2026-06-09T06:37:57.826Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Configuration\\Config.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Configuration\\Config.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Configuration\\Config.cs",
-              "RelativeToolTip": "MargBooks1\\Configuration\\Config.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T04:33:56.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PurchasePage.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\PurchasePage.cs",
-              "RelativeDocumentMoniker": "MargBooks1\\Pages\\PurchasePage.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\PurchasePage.cs",
-              "RelativeToolTip": "MargBooks1\\Pages\\PurchasePage.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T04:36:18.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\build\\net8.0\\Microsoft.NET.Test.Sdk.Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\build\\net8.0\\Microsoft.NET.Test.Sdk.Program.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\build\\net8.0\\Microsoft.NET.Test.Sdk.Program.cs",
-              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\build\\net8.0\\Microsoft.NET.Test.Sdk.Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T05:55:50.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "ScreenshotsHelper.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\ScreenshotsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\ScreenshotsHelper.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Utils\\ScreenshotsHelper.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\ScreenshotsHelper.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\ScreenshotsHelper.cs",
               "RelativeToolTip": "MargBooks1\\Utils\\ScreenshotsHelper.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-29T04:41:11.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
+              "Title": "TestesFlow.text",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\TestesFlow.text",
+              "RelativeDocumentMoniker": "MargBooks1\\Testes\\TestesFlow.text",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Testes\\TestesFlow.text",
+              "RelativeToolTip": "MargBooks1\\Testes\\TestesFlow.text",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-18T08:51:03.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScreenRecording.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\ScreenRecording.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Utils\\ScreenRecording.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\ScreenRecording.cs",
+              "RelativeToolTip": "MargBooks1\\Utils\\ScreenRecording.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T09:07:25.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DebugFormat.Text",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\DebugFormula\\DebugFormat.Text",
+              "RelativeDocumentMoniker": "MargBooks1\\DebugFormula\\DebugFormat.Text",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\DebugFormula\\DebugFormat.Text",
+              "RelativeToolTip": "MargBooks1\\DebugFormula\\DebugFormat.Text",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-18T09:42:44.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "MargBooks1\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T04:36:08.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Retry.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\Retry.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\Retry.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Utils\\Retry.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\Retry.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Utils\\Retry.cs",
               "RelativeToolTip": "MargBooks1\\Utils\\Retry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -399,11 +411,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExtentReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Reports\\ExtentReportManager.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Reports\\ExtentReportManager.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Reports\\ExtentReportManager.cs",
+              "RelativeToolTip": "MargBooks1\\Reports\\ExtentReportManager.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T04:38:29.246Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "MargBooks1.csproj",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\MargBooks1.csproj",
+              "Title": "PurchasePage.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\PurchasePage.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Pages\\PurchasePage.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\PurchasePage.cs",
+              "RelativeToolTip": "MargBooks1\\Pages\\PurchasePage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T04:36:18.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MargBooks1",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\MargBooks1.csproj",
               "RelativeDocumentMoniker": "MargBooks1\\MargBooks1.csproj",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\MargBooks1.csproj",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\MargBooks1.csproj",
+              "RelativeToolTip": "MargBooks1\\MargBooks1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-17T07:31:58.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SaleReturn.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\SaleReturn.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Pages\\SaleReturn.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Pages\\SaleReturn.cs",
+              "RelativeToolTip": "MargBooks1\\Pages\\SaleReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T04:36:40.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LedgerLocater.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Configuration\\LedgerLocater.cs",
+              "RelativeDocumentMoniker": "MargBooks1\\Configuration\\LedgerLocater.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Configuration\\LedgerLocater.cs",
+              "RelativeToolTip": "MargBooks1\\Configuration\\LedgerLocater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:25:42.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MargBooks1.csproj",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\MargBooks1.csproj",
+              "RelativeDocumentMoniker": "MargBooks1\\MargBooks1.csproj",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\MargBooks1.csproj",
               "RelativeToolTip": "MargBooks1\\MargBooks1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -411,11 +482,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "LedgerGSTinValidation.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerGSTinValidation.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerGSTinValidation.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Negativetestcases\\LedgerGSTinValidation.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerGSTinValidation.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerGSTinValidation.cs",
               "RelativeToolTip": "MargBooks1\\Negativetestcases\\LedgerGSTinValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -423,11 +494,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "LedgerMasterNegativePage.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerMasterNegativePage.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerMasterNegativePage.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Negativetestcases\\LedgerMasterNegativePage.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerMasterNegativePage.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerMasterNegativePage.cs",
               "RelativeToolTip": "MargBooks1\\Negativetestcases\\LedgerMasterNegativePage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAANEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -435,11 +506,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "VerifyLedgerNameBlankNegative.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\VerifyLedgerNameBlankNegative.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\VerifyLedgerNameBlankNegative.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Negativetestcases\\VerifyLedgerNameBlankNegative.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\VerifyLedgerNameBlankNegative.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\VerifyLedgerNameBlankNegative.cs",
               "RelativeToolTip": "MargBooks1\\Negativetestcases\\VerifyLedgerNameBlankNegative.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -447,11 +518,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "LoginTestsNegative.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LoginTestsNegative.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LoginTestsNegative.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Negativetestcases\\LoginTestsNegative.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LoginTestsNegative.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LoginTestsNegative.cs",
               "RelativeToolTip": "MargBooks1\\Negativetestcases\\LoginTestsNegative.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -459,11 +530,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "LedgerVerifyMobileNumber.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerVerifyMobileNumber.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerVerifyMobileNumber.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Negativetestcases\\LedgerVerifyMobileNumber.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerVerifyMobileNumber.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerVerifyMobileNumber.cs",
               "RelativeToolTip": "MargBooks1\\Negativetestcases\\LedgerVerifyMobileNumber.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -471,23 +542,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "LedgerNameSpecialchar.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerNameSpecialchar.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerNameSpecialchar.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Negativetestcases\\LedgerNameSpecialchar.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerNameSpecialchar.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerNameSpecialchar.cs",
               "RelativeToolTip": "MargBooks1\\Negativetestcases\\LedgerNameSpecialchar.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAIBJwC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T07:09:16.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "LedgerInvalidPincode.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerInvalidPincode.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerInvalidPincode.cs",
               "RelativeDocumentMoniker": "MargBooks1\\Negativetestcases\\LedgerInvalidPincode.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerInvalidPincode.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\Negativetestcases\\LedgerInvalidPincode.cs",
               "RelativeToolTip": "MargBooks1\\Negativetestcases\\LedgerInvalidPincode.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAIwC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -495,47 +566,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "LoginTests.cs",
               "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks2\\MargBooks2\\Tests\\LoginTests.cs",
-              "RelativeDocumentMoniker": "..\\MargBooks2\\MargBooks2\\Tests\\LoginTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\MargBooks2\\MargBooks2\\Tests\\LoginTests.cs",
               "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks2\\MargBooks2\\Tests\\LoginTests.cs",
-              "RelativeToolTip": "..\\MargBooks2\\MargBooks2\\Tests\\LoginTests.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\MargBooks2\\MargBooks2\\Tests\\LoginTests.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-29T04:39:01.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "BasePage.cs",
               "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks2\\MargBooks2\\Base\\BasePage.cs",
-              "RelativeDocumentMoniker": "..\\MargBooks2\\MargBooks2\\Base\\BasePage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\MargBooks2\\MargBooks2\\Base\\BasePage.cs",
               "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks2\\MargBooks2\\Base\\BasePage.cs",
-              "RelativeToolTip": "..\\MargBooks2\\MargBooks2\\Base\\BasePage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\MargBooks2\\MargBooks2\\Base\\BasePage.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-29T04:32:20.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "MargBooks1\\OldTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\UnitTest1.cs",
               "RelativeToolTip": "MargBooks1\\OldTest\\UnitTest1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAIBJwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAIBZwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T07:14:05.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Purchasetransactions.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\Purchasetransactions.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\Purchasetransactions.cs",
               "RelativeDocumentMoniker": "MargBooks1\\OldTest\\Purchasetransactions.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\Purchasetransactions.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\Purchasetransactions.cs",
               "RelativeToolTip": "MargBooks1\\OldTest\\Purchasetransactions.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAswBwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -543,11 +612,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "LedgerMaster.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\LedgerMaster.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\LedgerMaster.cs",
               "RelativeDocumentMoniker": "MargBooks1\\OldTest\\LedgerMaster.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\LedgerMaster.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\LedgerMaster.cs",
               "RelativeToolTip": "MargBooks1\\OldTest\\LedgerMaster.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAwwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -555,11 +624,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "LoginPage.cs",
-              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\LoginPage.cs",
               "RelativeDocumentMoniker": "MargBooks1\\OldTest\\LoginPage.cs",
-              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\OldTest\\LoginPage.cs",
               "RelativeToolTip": "MargBooks1\\OldTest\\LoginPage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -567,13 +636,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "MARGPROVIDER_1.json",
               "DocumentMoniker": "C:\\Users\\shailender.kumar\\Downloads\\MARGPROVIDER_1.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MARGPROVIDER_1.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Downloads\\MARGPROVIDER_1.json",
               "ToolTip": "C:\\Users\\shailender.kumar\\Downloads\\MARGPROVIDER_1.json",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\MARGPROVIDER_1.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Downloads\\MARGPROVIDER_1.json",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-21T10:48:39.279Z"
             }

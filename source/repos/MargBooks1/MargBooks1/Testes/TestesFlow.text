@@ -1,0 +1,31 @@
+Test Start
+   ↓
+Create Report
+   ↓
+Create LoginPage Object
+   ↓
+Create Ledger Object
+   ↓
+Create SaleBill Object
+   ↓
+Login
+   ↓
+Wait 20 sec
+   ↓
+Report PASS
+   ↓
+Ready for Test Execution
+
+// Discount store process
+
+Discount field me new value enter karo
+      ↓
+Popup/Open Warning aati hai
+      ↓
+XPath:
+ //div[@class='warning p-2']
+      ↓
+User decide karega:
+1. Don't Store
+2. Product Special
+3. Agency List

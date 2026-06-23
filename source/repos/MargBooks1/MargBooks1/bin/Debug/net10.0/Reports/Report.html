@@ -1,9 +1,10 @@
 <html>
-              <head>
+                <head>
                     <title>Automation Report</title>
+
                     <style>
                         body{
-                            font-family: Arial;
+                            font-family:Arial;
                             background:#f4f4f4;
                             padding:20px;
                         }
@@ -38,68 +39,44 @@
                             color:red;
                             font-weight:bold;
                         }
+
+                        a{
+                            text-decoration:none;
+                        }
                     </style>
-              </head>
-              <body>
 
-              <h1>Automation Execution Report</h1>
+                </head>
 
-              <table>
-                    <tr>
-                        <th>Time</th>
-                        <th>Test Case</th>
-                        <th>Status</th>
-                        <th>Message</th>
-                    </tr>
+                <body>
+
+                    <h1>Automation Execution Report</h1>
+
+                    <table>
+                        <tr>
+                            <th>Time</th>
+                            <th>Test Case</th>
+                            <th>Status</th>
+                            <th>Message</th>
+                            <th>Screenshot</th>
+                        </tr>
                 <tr>
-                    <td>12-06-2026 13:03:14</td>
+                    <td>18-06-2026 14:28:13</td>
                     <td>Login</td>
                     <td class='pass'>PASS</td>
                     <td>Login successful</td>
+                    <td><a href='Image' target='_blank'>View Screenshot</a></td>
                 </tr>
                 <tr>
-                    <td>12-06-2026 13:03:20</td>
-                    <td>Open Master</td>
+                    <td>18-06-2026 14:28:15</td>
+                    <td>Open Sale Menu</td>
                     <td class='pass'>PASS</td>
-                    <td>Master menu opened</td>
+                    <td>Sale Menu Opened</td>
+                    <td><a href='Image' target='_blank'>View Screenshot</a></td>
                 </tr>
                 <tr>
-                    <td>12-06-2026 13:03:25</td>
-                    <td>Open AccountMaster</td>
+                    <td>18-06-2026 14:28:17</td>
+                    <td>Open Sale Bill</td>
                     <td class='pass'>PASS</td>
-                    <td>Account Master page opened</td>
+                    <td>Sale Bill Opened</td>
+                    <td><a href='Image' target='_blank'>View Screenshot</a></td>
                 </tr>
-                <tr>
-                    <td>12-06-2026 13:03:31</td>
-                    <td>Clickoncreate</td>
-                    <td class='pass'>PASS</td>
-                    <td>CreateLedger</td>
-                </tr>
-                <tr>
-                    <td>12-06-2026 13:03:37</td>
-                    <td>Enter Party Name</td>
-                    <td class='pass'>PASS</td>
-                    <td>Party name entered</td>
-                </tr>
-                <tr>
-                    <td>12-06-2026 13:04:50</td>
-                    <td>LedgerMasterCreation</td>
-                    <td class='fail'>FAIL</td>
-                    <td>OpenQA.Selenium.WebDriverTimeoutException: Timed out after 40 seconds
- ---> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#inphsncode"}
-  (Session info: chrome=149.0.7827.104); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
-   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
-   at OpenQA.Selenium.WebDriver.FindElement(By by)
-   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
-   --- End of inner exception stack trace ---
-   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
-   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
-   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
-   at MargBooks1.Base.BasePage.GetElement(By locator) in C:\Users\shailender.kumar\source\repos\MargBooks1\MargBooks1\Base\BasePage.cs:line 24
-   at MargBooks1.Base.BasePage.Type(By locator, String text) in C:\Users\shailender.kumar\source\repos\MargBooks1\MargBooks1\Base\BasePage.cs:line 37
-   at MargBooks1.Pages.ItemMasterCreation.EnterHSN() in C:\Users\shailender.kumar\source\repos\MargBooks1\MargBooks1\Pages\ItemMasterCreation.cs:line 122
-   at MargBooks1.Tests.MargBooksTests1.Verify_Item_Creation_Flow() in C:\Users\shailender.kumar\source\repos\MargBooks1\MargBooks1\Testes\ItemCreation.cs:line 105</td>
-                </tr></table>
-              </body>
-              </html>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vdK2oneMB0E=",
+  "dgSpecHash": "tNMAFTobGfU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shailender.kumar\\source\\repos\\MargBooks1\\MargBooks1\\MargBooks1.csproj",
+  "projectFilePath": "C:\\Users\\shailender.kumar\\source\\repos\\Ayaansain\\MargBooks1\\source\\repos\\MargBooks1\\MargBooks1\\MargBooks1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shailender.kumar\\.nuget\\packages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",
     "C:\\Users\\shailender.kumar\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
@@ -26,6 +26,7 @@
     "C:\\Users\\shailender.kumar\\.nuget\\packages\\nunit.analyzers\\4.7.0\\nunit.analyzers.4.7.0.nupkg.sha512",
     "C:\\Users\\shailender.kumar\\.nuget\\packages\\nunit3testadapter\\5.0.0\\nunit3testadapter.5.0.0.nupkg.sha512",
     "C:\\Users\\shailender.kumar\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\shailender.kumar\\.nuget\\packages\\screenrecorderlib\\6.5.1\\screenrecorderlib.6.5.1.nupkg.sha512",
     "C:\\Users\\shailender.kumar\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
     "C:\\Users\\shailender.kumar\\.nuget\\packages\\selenium.support\\4.41.0\\selenium.support.4.41.0.nupkg.sha512",
     "C:\\Users\\shailender.kumar\\.nuget\\packages\\selenium.webdriver\\4.41.0\\selenium.webdriver.4.41.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MargBooks1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6f738ad368089f1a88c85ffea1fe4ae3568e15d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MargBooks1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MargBooks1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

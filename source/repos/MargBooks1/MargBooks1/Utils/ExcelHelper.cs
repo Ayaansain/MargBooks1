@@ -81,4 +81,36 @@ public static class ExcelHelper
             };
         }
     }
+    public static SaleBillDetails GetSaleBillDetails(int row)
+    {
+        string path = @"D:\MargBooks1\SaleBillDetails.xlsx";
+
+        using (var workbook = new XLWorkbook(path))
+        {
+            var ws = workbook.Worksheet("Sheet1");
+
+            return new SaleBillDetails
+            {
+                Date = ws.Cell(row, 1).GetValue<int>(),
+                BillNo = ws.Cell(row, 2).GetValue<int>(),
+                LedgerName = ws.Cell(row, 3).GetString(),
+                ItemName = ws.Cell(row, 4).GetString(),
+                QTY = ws.Cell(row, 5).GetString(),
+                SaleRate = ws.Cell(row, 6).GetString(),
+                Discount = ws.Cell(row, 7).GetString(),
+                Mobile = ws.Cell(row, 8).GetString(),
+                CustomerName = ws.Cell(row, 9).GetString(),
+                Address = ws.Cell(row, 10).GetString(),
+                OtherHead = ws.Cell(row, 11).GetString(),
+                Unit1 = ws.Cell(row, 12).GetString(),
+                Unit2 = ws.Cell(row, 13).GetString(),
+                BillDiscount = ws.Cell(row, 14).GetString(),
+                Packing = ws.Cell(row, 15).GetString(),
+                HSN = ws.Cell(row, 16).GetString(),
+                TaxCategory = ws.Cell(row, 17).GetString(),
+                Company = ws.Cell(row, 18).GetString(),
+                MRP = ws.Cell(row, 19).GetString()
+            };
+        }
+    }
 }

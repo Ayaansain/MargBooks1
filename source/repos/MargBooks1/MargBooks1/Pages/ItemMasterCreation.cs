@@ -45,6 +45,16 @@ namespace MargBooks1.Pages
         public void OpenMaster1() => Click(Mastermenu);
         public void OpenInventory()=>Click(InventoryMaster);
         public void OpenItem()=>Click(Item);
+
+        public void EnterRandomItemName()
+        {
+            Random rnd = new Random();
+
+            string randomItemName =
+                "Item_" + rnd.Next(1000, 999999);
+
+            Type(Itemname, randomItemName);
+        }
         public void EnterItemName() => Type(Itemname,ItemDetails.ItemName);
 
         public void EnterPacking()=>Type(Packing,ItemDetails.Packing);

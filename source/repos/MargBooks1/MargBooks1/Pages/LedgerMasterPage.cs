@@ -48,6 +48,18 @@ namespace MargBooks1.Pages
 
         public void NewPartyName() => Type(PartyName, LedgerData.LedgerName + Keys.Backspace);
 
+        //Random ledger Name generate karne wala method
+
+        public void EnterRandomPartyName()
+        {
+            Random rnd = new Random();
+
+            string randomLedgerName =
+                "Ledger_" + rnd.Next(1000, 999999);
+
+            Type(PartyName, randomLedgerName);
+        }
+
         //Ledger ke naam 45 chacrator se jayda check karne wala method
         public void EnterPartyName(string ledgerName)
         {
@@ -56,11 +68,11 @@ namespace MargBooks1.Pages
 
         public int GetPartyNameLength()
         {
-            return GetElement(PartyName)
-                .GetAttribute("value")
-                .Length;
-        }
+            string value = GetElement(PartyName)
+                .GetAttribute("value") ?? "";
 
+            return value.Length;
+        }
         // Yaha par khatam hai 45 Charctor wala method
         public void GroupNameSelect()
         {
